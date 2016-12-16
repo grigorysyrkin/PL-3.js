@@ -55,19 +55,9 @@ document.addEventListener
 		}
 	}
 )
-
-
-
-
-// document.addEventListener
-// (
-//     'DOMContentLoaded', function () 
-//     {
-//     	var result = document.querySelector(".result");
-//     	for (var i = 0; i < results.length; i++) {
-//     		result.innerHTML += results[i]
-// 	    	result.innerHTML += '1<br></br><br></br><br></br><br></br><br></br><br></br>1';
-//     	}
-// }
-// )
 console.log(results);
+
+
+
+
+
